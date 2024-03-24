@@ -1,2 +1,0 @@
-
-![App Screenshot](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/overview/)
